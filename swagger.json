@@ -9,7 +9,7 @@
       "url": "http://github.com/gruntjs/grunt/blob/master/LICENSE-MIT"
     }
   },
-  "host": "10.51.135.191:8080",
+  "host": "10.51.135.104",
   "basePath": "/",
   "schemes": [
     "http"
